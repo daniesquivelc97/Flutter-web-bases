@@ -1,6 +1,7 @@
-import 'package:bases_web/ui/shared/custom_app_menu.dart';
 import 'package:bases_web/ui/shared/custom_flat_button.dart';
 import 'package:flutter/material.dart';
+
+import '../shared/custom_app_menu.dart';
 
 class CounterPage extends StatefulWidget {
   const CounterPage({Key? key}) : super(key: key);
